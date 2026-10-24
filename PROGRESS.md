@@ -6,15 +6,15 @@ Tick a ✅ box when the day is committed. Update the streak stats honestly 😄
 
 | Metric | Value |
 |---|---|
-| Current streak | 0 |
-| Longest streak | 0 |
-| Days completed | 0 / 180 |
+| Current streak | 1 🔥 |
+| Longest streak | 1 |
+| Days completed | 1 / 180 |
 
 ## 🟢 Phase 1 — Beginner (Days 1–30)
 
 | Day | Project | Done | Date | Notes |
 |---|---|---|---|---|
-| 1 | Greeting bot | ☐ | 2026-10-24 | [notes](01-beginner/day-01-hello-python/notes.md) |
+| 1 | Greeting bot | ✅ | 2026-10-24 | [notes](01-beginner/day-01-hello-python/notes.md) |
 | 2 | Mad Libs generator | ☐ | | |
 | 3 | Mini calculator | ☐ | | |
 | 4 | Number guessing game | ☐ | | |
