@@ -32,11 +32,6 @@ day-01-hello-python/
 ├── solution.py   # only after I've tried!
 └── notes.md      # what I learned / what tripped me up
 
-write this in paragraph form The four phases
-Phase	Days	What I learn	Flagship projects
-🟢 01 Beginner	1–30	syntax · loops · functions · files · logic	number guessing, Hangman, quiz game, budget tracker
-🟡 02 Intermediate	31–75	OOP · APIs · pip/venv · testing · SQLite · GUI	weather CLI, web scraper, habit tracker, Tkinter apps
-🟠 03 Advanced	76–120	async · FastAPI · pandas · Docker · patterns	REST API, data dashboard, automation bots
-🔴 04 Pro	121+	full-stack · deploy · CI/CD · packaging · ML	SaaS-style capstone, published PyPI package
+The four phases break my journey into clear stages. In the 🟢 Beginner phase (Days 1–30), I focus on the basics: syntax, loops, functions, files, and logic, and I build small projects like a number guessing game, Hangman, a quiz game, and a budget tracker. In the 🟡 Intermediate phase (Days 31–75), I move on to OOP, APIs, pip and virtual environments, testing, SQLite, and GUI work, building things like a weather CLI, a web scraper, a habit tracker, and Tkinter apps. In the 🟠 Advanced phase (Days 76–120), I tackle async, FastAPI, pandas, Docker, and design patterns, with projects like a REST API, a data dashboard, and automation bots. Finally, in the 🔴 Pro phase (Days 121+), I work on full-stack development, deployment, CI/CD, packaging, and machine learning, finishing with a SaaS-style capstone and a published PyPI package.
 └── PROGRESS.md         # the tracker — I tick a box every day 📈
     
