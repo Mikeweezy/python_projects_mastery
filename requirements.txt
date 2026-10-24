@@ -1,0 +1,2 @@
+# Third-party dependencies live here (none yet — Day 1 uses only the stdlib! 🎉)
+# From Phase 2 on, install with:  pip install -r requirements.txt
