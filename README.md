@@ -3,6 +3,8 @@
 > **One project a day — from `print("hello world")` to shipping real software.**
 > 180+ days · 4 phases · built daily with an AI pair programmer (Cline).
 
+Live repo: **https://github.com/Mikeweezy/python_projects_mastery**
+
 ## 🎯 The rules
 
 1. **Show up daily** — 20 focused minutes beats 3 frantic hours on Sunday.
@@ -14,7 +16,7 @@
 ## 🗺️ Repository structure
 
 ```text
-python-daily-journey/
+python_projects_mastery/
 ├── 01-beginner/        # Days 1–30   → syntax, logic, files, small games
 ├── 02-intermediate/    # Days 31–75  → OOP, APIs, packages, GUI, databases
 ├── 03-advanced/        # Days 76–120 → async, web frameworks, data, Docker
@@ -80,11 +82,12 @@ Start a chat each day and say:
 - *"Review my day-12 solution"* → code review + refactor tips
 - *"Update PROGRESS.md for day 12"* → tracker + commit
 
-## 🚀 One-time setup (connect this folder to GitHub)
+## 🚀 Connected to GitHub ✅
+
+Remote `origin` → `https://github.com/Mikeweezy/python_projects_mastery.git`
 
 ```bash
-git remote add origin https://github.com/YOUR-USERNAME/python-daily-journey.git
-git push -u origin main
+git push          # after every daily commit
 ```
 
 ---
