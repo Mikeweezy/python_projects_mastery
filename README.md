@@ -32,12 +32,11 @@ day-01-hello-python/
 ├── solution.py   # only after I've tried!
 └── notes.md      # what I learned / what tripped me up
 
-The four phases
+write this in paragraph form The four phases
 Phase	Days	What I learn	Flagship projects
 🟢 01 Beginner	1–30	syntax · loops · functions · files · logic	number guessing, Hangman, quiz game, budget tracker
 🟡 02 Intermediate	31–75	OOP · APIs · pip/venv · testing · SQLite · GUI	weather CLI, web scraper, habit tracker, Tkinter apps
 🟠 03 Advanced	76–120	async · FastAPI · pandas · Docker · patterns	REST API, data dashboard, automation bots
 🔴 04 Pro	121+	full-stack · deploy · CI/CD · packaging · ML	SaaS-style capstone, published PyPI package
-├── CURRICULUM.md       # the full day-by-day roadmap
 └── PROGRESS.md         # the tracker — I tick a box every day 📈
     
